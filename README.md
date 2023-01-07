@@ -21,4 +21,6 @@
     <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-</div>
+</div><br/>
+
+Apaixonado por tecnologia, educação e agilizar o ciclo de desenvolvimento atravez de práticas devops.
